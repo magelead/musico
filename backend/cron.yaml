@@ -1,0 +1,4 @@
+cron:
+#- description: "daily job generating songs"
+#  url: /musician
+#  schedule: every 5 minutes from 18:30 to 19:00 
